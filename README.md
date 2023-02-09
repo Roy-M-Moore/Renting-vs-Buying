@@ -1,7 +1,7 @@
 # Renting-vs-Buying
 A calculator where you can use data to assess whether it is more favorable for you to rent or buy a home.
 
-Use it online [here]() (hosted on shinyapps.io).
+Use it online [here](https://roy-m-moore.shinyapps.io/renting-vs-buying/) (hosted on shinyapps.io).
 
 Simply comparing the monthly rent of a rented property against the monthly mortgage of a bought one is a flawed way to assess the costs of living. Both renting and owning carry unrecoverable costs (i.e., money spent with no associated residual value). In the case of renting, this is simply the rent. In the case of owning, the calculation is slightly more complicated, but it does not simply boil down to the mortgage payments. The Renting vs Buying Calculator is a shiny dashboard where users can easily introduce data about the properties they potentially want to buy and assess the unrecoverable costs of owning.
 
